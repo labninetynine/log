@@ -1503,3 +1503,10 @@ Tue Dec 31 19:00:13 2019 : litecoin, -0.51
 Tue Dec 31 19:00:13 2019 : eos, -0.37
 Tue Dec 31 19:00:13 2019 : tron, -0.62
 Tue Dec 31 19:00:13 2019 : cardano, -0.02
+Tue Dec 31 19:30:11 2019 : bitcoin, -0.42
+Tue Dec 31 19:30:11 2019 : ethereum, -0.11
+Tue Dec 31 19:30:11 2019 : ripple, -0.22
+Tue Dec 31 19:30:11 2019 : litecoin, -0.51
+Tue Dec 31 19:30:11 2019 : eos, -0.37
+Tue Dec 31 19:30:11 2019 : tron, -0.62
+Tue Dec 31 19:30:11 2019 : cardano, -0.02
