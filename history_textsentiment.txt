@@ -4275,3 +4275,10 @@ Thu Jan  9 07:00:11 2020 : litecoin, -0.52
 Thu Jan  9 07:00:11 2020 : eos, -0.61
 Thu Jan  9 07:00:11 2020 : tron, -0.39
 Thu Jan  9 07:00:11 2020 : cardano, -0.05
+Thu Jan  9 07:30:09 2020 : bitcoin, -0.56
+Thu Jan  9 07:30:09 2020 : ethereum, 0.43
+Thu Jan  9 07:30:09 2020 : ripple, -0.57
+Thu Jan  9 07:30:09 2020 : litecoin, -0.52
+Thu Jan  9 07:30:09 2020 : eos, -0.61
+Thu Jan  9 07:30:09 2020 : tron, -0.39
+Thu Jan  9 07:30:09 2020 : cardano, -0.05
