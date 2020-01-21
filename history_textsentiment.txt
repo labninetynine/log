@@ -8356,3 +8356,10 @@ Tue Jan 21 15:30:36 2020 : litecoin, -0.42
 Tue Jan 21 15:30:36 2020 : eos, -0.4
 Tue Jan 21 15:30:36 2020 : tron, -0.54
 Tue Jan 21 15:30:36 2020 : cardano, -0.31
+Tue Jan 21 16:00:37 2020 : bitcoin, -0.48
+Tue Jan 21 16:00:37 2020 : ethereum, -0.45
+Tue Jan 21 16:00:37 2020 : ripple, 0.11
+Tue Jan 21 16:00:37 2020 : litecoin, -0.47
+Tue Jan 21 16:00:37 2020 : eos, -0.4
+Tue Jan 21 16:00:37 2020 : tron, -0.54
+Tue Jan 21 16:00:37 2020 : cardano, -0.31
