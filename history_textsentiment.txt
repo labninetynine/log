@@ -9665,3 +9665,10 @@ Sat Jan 25 13:30:10 2020 : litecoin, -0.36
 Sat Jan 25 13:30:10 2020 : eos, -0.29
 Sat Jan 25 13:30:10 2020 : tron, -0.2
 Sat Jan 25 13:30:10 2020 : cardano, -0.19
+Sat Jan 25 14:00:11 2020 : bitcoin, -0.67
+Sat Jan 25 14:00:11 2020 : ethereum, -0.11
+Sat Jan 25 14:00:11 2020 : ripple, -0.51
+Sat Jan 25 14:00:11 2020 : litecoin, -0.43
+Sat Jan 25 14:00:11 2020 : eos, -0.29
+Sat Jan 25 14:00:11 2020 : tron, -0.17
+Sat Jan 25 14:00:11 2020 : cardano, -0.17
