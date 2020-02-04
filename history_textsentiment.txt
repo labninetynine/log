@@ -12857,3 +12857,10 @@ Tue Feb  4 02:00:13 2020 : litecoin, -0.57
 Tue Feb  4 02:00:13 2020 : eos, -0.38
 Tue Feb  4 02:00:13 2020 : tron, -0.12
 Tue Feb  4 02:00:13 2020 : cardano, -0.27
+Tue Feb  4 02:30:11 2020 : bitcoin, 0.45
+Tue Feb  4 02:30:11 2020 : ethereum, -0.34
+Tue Feb  4 02:30:11 2020 : ripple, -0.57
+Tue Feb  4 02:30:11 2020 : litecoin, -0.57
+Tue Feb  4 02:30:11 2020 : eos, -0.38
+Tue Feb  4 02:30:11 2020 : tron, -0.12
+Tue Feb  4 02:30:11 2020 : cardano, -0.27
