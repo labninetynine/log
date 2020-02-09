@@ -14810,3 +14810,10 @@ Sun Feb  9 22:00:11 2020 : litecoin, -0.33
 Sun Feb  9 22:00:11 2020 : eos, -0.56
 Sun Feb  9 22:00:11 2020 : tron, -0.35
 Sun Feb  9 22:00:11 2020 : cardano, -0.12
+Sun Feb  9 22:30:12 2020 : bitcoin, -0.71
+Sun Feb  9 22:30:12 2020 : ethereum, -0.26
+Sun Feb  9 22:30:12 2020 : ripple, -0.55
+Sun Feb  9 22:30:12 2020 : litecoin, -0.33
+Sun Feb  9 22:30:12 2020 : eos, -0.56
+Sun Feb  9 22:30:12 2020 : tron, -0.35
+Sun Feb  9 22:30:12 2020 : cardano, 0.04
