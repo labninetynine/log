@@ -16343,3 +16343,10 @@ Fri Feb 14 12:30:08 2020 : litecoin, -0.45
 Fri Feb 14 12:30:08 2020 : eos, -0.27
 Fri Feb 14 12:30:08 2020 : tron, -0.18
 Fri Feb 14 12:30:08 2020 : cardano, -0.18
+Fri Feb 14 13:00:11 2020 : bitcoin, -0.71
+Fri Feb 14 13:00:11 2020 : ethereum, -0.59
+Fri Feb 14 13:00:11 2020 : ripple, -0.63
+Fri Feb 14 13:00:11 2020 : litecoin, -0.45
+Fri Feb 14 13:00:11 2020 : eos, -0.27
+Fri Feb 14 13:00:11 2020 : tron, -0.18
+Fri Feb 14 13:00:11 2020 : cardano, -0.18
