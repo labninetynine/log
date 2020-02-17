@@ -1,1 +1,7 @@
-* raw signal
+* raw signalMon Feb 17 11:30:15 2020 : bitcoin, 0.163
+Mon Feb 17 11:30:15 2020 : ethereum, 0.131
+Mon Feb 17 11:30:15 2020 : ripple, 0.192
+Mon Feb 17 11:30:15 2020 : litecoin, 0.133
+Mon Feb 17 11:30:15 2020 : eos, 0.156
+Mon Feb 17 11:30:15 2020 : tron, 0.111
+Mon Feb 17 11:30:15 2020 : cardano, 0.123
