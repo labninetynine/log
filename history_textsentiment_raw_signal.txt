@@ -2211,3 +2211,10 @@ Mon Feb 24 23:00:14 2020 : litecoin, 0.143
 Mon Feb 24 23:00:14 2020 : eos, 0.162
 Mon Feb 24 23:00:14 2020 : tron, 0.134
 Mon Feb 24 23:00:14 2020 : cardano, 0.101
+Mon Feb 24 23:30:14 2020 : bitcoin, 0.172
+Mon Feb 24 23:30:14 2020 : ethereum, 0.125
+Mon Feb 24 23:30:14 2020 : ripple, 0.215
+Mon Feb 24 23:30:14 2020 : litecoin, 0.143
+Mon Feb 24 23:30:14 2020 : eos, 0.162
+Mon Feb 24 23:30:14 2020 : tron, 0.134
+Mon Feb 24 23:30:14 2020 : cardano, 0.101
