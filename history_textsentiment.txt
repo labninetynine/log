@@ -19598,3 +19598,10 @@ Wed Feb 26 22:30:12 2020 : litecoin, -0.31
 Wed Feb 26 22:30:12 2020 : eos, -0.31
 Wed Feb 26 22:30:12 2020 : tron, -0.23
 Wed Feb 26 22:30:12 2020 : cardano, 0.01
+Wed Feb 26 23:00:14 2020 : bitcoin, -0.68
+Wed Feb 26 23:00:14 2020 : ethereum, -0.28
+Wed Feb 26 23:00:14 2020 : ripple, -0.81
+Wed Feb 26 23:00:14 2020 : litecoin, -0.31
+Wed Feb 26 23:00:14 2020 : eos, -0.31
+Wed Feb 26 23:00:14 2020 : tron, -0.23
+Wed Feb 26 23:00:14 2020 : cardano, 0.01
