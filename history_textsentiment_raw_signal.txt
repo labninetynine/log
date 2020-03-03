@@ -4087,3 +4087,10 @@ Tue Mar  3 19:00:10 2020 : litecoin, 0.113
 Tue Mar  3 19:00:10 2020 : eos, 0.197
 Tue Mar  3 19:00:10 2020 : tron, 0.14
 Tue Mar  3 19:00:10 2020 : cardano, 0.092
+Tue Mar  3 19:30:09 2020 : bitcoin, 0.209
+Tue Mar  3 19:30:09 2020 : ethereum, 0.142
+Tue Mar  3 19:30:09 2020 : ripple, 0.252
+Tue Mar  3 19:30:09 2020 : litecoin, 0.113
+Tue Mar  3 19:30:09 2020 : eos, 0.197
+Tue Mar  3 19:30:09 2020 : tron, 0.14
+Tue Mar  3 19:30:09 2020 : cardano, 0.092
