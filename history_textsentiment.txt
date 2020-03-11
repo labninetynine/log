@@ -23483,3 +23483,10 @@ Wed Mar 11 17:30:15 2020 : litecoin, -0.43
 Wed Mar 11 17:30:15 2020 : eos, -0.68
 Wed Mar 11 17:30:15 2020 : tron, -0.61
 Wed Mar 11 17:30:15 2020 : cardano, 0.23
+Wed Mar 11 18:00:16 2020 : bitcoin, -0.67
+Wed Mar 11 18:00:16 2020 : ethereum, -0.14
+Wed Mar 11 18:00:16 2020 : ripple, -0.59
+Wed Mar 11 18:00:16 2020 : litecoin, -0.43
+Wed Mar 11 18:00:16 2020 : eos, -0.68
+Wed Mar 11 18:00:16 2020 : tron, -0.61
+Wed Mar 11 18:00:16 2020 : cardano, 0.24
