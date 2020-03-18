@@ -8735,3 +8735,10 @@ Wed Mar 18 06:00:36 2020 : litecoin, 0.172
 Wed Mar 18 06:00:36 2020 : eos, 0.159
 Wed Mar 18 06:00:36 2020 : tron, 0.1
 Wed Mar 18 06:00:36 2020 : cardano, 0.097
+Wed Mar 18 06:30:36 2020 : bitcoin, 0.11
+Wed Mar 18 06:30:36 2020 : ethereum, 0.147
+Wed Mar 18 06:30:36 2020 : ripple, 0.162
+Wed Mar 18 06:30:36 2020 : litecoin, 0.172
+Wed Mar 18 06:30:36 2020 : eos, 0.164
+Wed Mar 18 06:30:36 2020 : tron, 0.1
+Wed Mar 18 06:30:36 2020 : cardano, 0.097
