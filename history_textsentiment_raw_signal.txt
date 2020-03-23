@@ -10688,3 +10688,10 @@ Mon Mar 23 19:00:12 2020 : litecoin, 0.168
 Mon Mar 23 19:00:12 2020 : eos, 0.14
 Mon Mar 23 19:00:12 2020 : tron, 0.124
 Mon Mar 23 19:00:12 2020 : cardano, 0.101
+Mon Mar 23 19:30:09 2020 : bitcoin, 0.155
+Mon Mar 23 19:30:09 2020 : ethereum, 0.148
+Mon Mar 23 19:30:09 2020 : ripple, 0.151
+Mon Mar 23 19:30:09 2020 : litecoin, 0.168
+Mon Mar 23 19:30:09 2020 : eos, 0.14
+Mon Mar 23 19:30:09 2020 : tron, 0.124
+Mon Mar 23 19:30:09 2020 : cardano, 0.101
