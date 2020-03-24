@@ -27795,3 +27795,10 @@ Tue Mar 24 08:00:12 2020 : litecoin, -0.56
 Tue Mar 24 08:00:12 2020 : eos, -0.43
 Tue Mar 24 08:00:12 2020 : tron, -0.33
 Tue Mar 24 08:00:12 2020 : cardano, -0.18
+Tue Mar 24 08:30:10 2020 : bitcoin, -0.42
+Tue Mar 24 08:30:10 2020 : ethereum, -0.43
+Tue Mar 24 08:30:10 2020 : ripple, -0.76
+Tue Mar 24 08:30:10 2020 : litecoin, -0.52
+Tue Mar 24 08:30:10 2020 : eos, -0.43
+Tue Mar 24 08:30:10 2020 : tron, -0.33
+Tue Mar 24 08:30:10 2020 : cardano, -0.18
