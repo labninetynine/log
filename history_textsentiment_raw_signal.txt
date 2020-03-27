@@ -11745,3 +11745,10 @@ Fri Mar 27 02:00:12 2020 : litecoin, 0.151
 Fri Mar 27 02:00:12 2020 : eos, 0.15
 Fri Mar 27 02:00:12 2020 : tron, 0.112
 Fri Mar 27 02:00:12 2020 : cardano, 0.115
+Fri Mar 27 02:30:10 2020 : bitcoin, 0.19
+Fri Mar 27 02:30:10 2020 : ethereum, 0.132
+Fri Mar 27 02:30:10 2020 : ripple, 0.167
+Fri Mar 27 02:30:10 2020 : litecoin, 0.151
+Fri Mar 27 02:30:10 2020 : eos, 0.15
+Fri Mar 27 02:30:10 2020 : tron, 0.112
+Fri Mar 27 02:30:10 2020 : cardano, 0.115
