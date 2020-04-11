@@ -32835,3 +32835,10 @@ Sat Apr 11 05:30:10 2020 : litecoin, -0.59
 Sat Apr 11 05:30:10 2020 : eos, 0.09
 Sat Apr 11 05:30:10 2020 : tron, -0.1
 Sat Apr 11 05:30:10 2020 : cardano, -0.25
+Sat Apr 11 06:00:11 2020 : bitcoin, -0.14
+Sat Apr 11 06:00:11 2020 : ethereum, -0.27
+Sat Apr 11 06:00:11 2020 : ripple, -0.37
+Sat Apr 11 06:00:11 2020 : litecoin, -0.59
+Sat Apr 11 06:00:11 2020 : eos, 0.09
+Sat Apr 11 06:00:11 2020 : tron, -0.1
+Sat Apr 11 06:00:11 2020 : cardano, -0.25
