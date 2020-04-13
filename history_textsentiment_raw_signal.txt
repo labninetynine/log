@@ -16372,3 +16372,10 @@ Mon Apr 13 06:00:14 2020 : litecoin, 0.164
 Mon Apr 13 06:00:14 2020 : eos, 0.093
 Mon Apr 13 06:00:14 2020 : tron, 0.093
 Mon Apr 13 06:00:14 2020 : cardano, 0.101
+Mon Apr 13 06:30:11 2020 : bitcoin, 0.145
+Mon Apr 13 06:30:11 2020 : ethereum, 0.138
+Mon Apr 13 06:30:11 2020 : ripple, 0.139
+Mon Apr 13 06:30:11 2020 : litecoin, 0.164
+Mon Apr 13 06:30:11 2020 : eos, 0.093
+Mon Apr 13 06:30:11 2020 : tron, 0.093
+Mon Apr 13 06:30:11 2020 : cardano, 0.101
