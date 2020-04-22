@@ -19445,3 +19445,10 @@ Wed Apr 22 14:00:13 2020 : litecoin, 0.15
 Wed Apr 22 14:00:13 2020 : eos, 0.101
 Wed Apr 22 14:00:13 2020 : tron, 0.077
 Wed Apr 22 14:00:13 2020 : cardano, 0.094
+Wed Apr 22 14:30:10 2020 : bitcoin, 0.142
+Wed Apr 22 14:30:10 2020 : ethereum, 0.112
+Wed Apr 22 14:30:10 2020 : ripple, 0.173
+Wed Apr 22 14:30:10 2020 : litecoin, 0.15
+Wed Apr 22 14:30:10 2020 : eos, 0.101
+Wed Apr 22 14:30:10 2020 : tron, 0.074
+Wed Apr 22 14:30:10 2020 : cardano, 0.094
