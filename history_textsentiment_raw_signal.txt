@@ -19914,3 +19914,10 @@ Fri Apr 24 02:30:10 2020 : litecoin, 0.118
 Fri Apr 24 02:30:10 2020 : eos, 0.11
 Fri Apr 24 02:30:10 2020 : tron, 0.115
 Fri Apr 24 02:30:10 2020 : cardano, 0.104
+Fri Apr 24 03:00:15 2020 : bitcoin, 0.185
+Fri Apr 24 03:00:15 2020 : ethereum, 0.107
+Fri Apr 24 03:00:15 2020 : ripple, 0.171
+Fri Apr 24 03:00:15 2020 : litecoin, 0.118
+Fri Apr 24 03:00:15 2020 : eos, 0.11
+Fri Apr 24 03:00:15 2020 : tron, 0.115
+Fri Apr 24 03:00:15 2020 : cardano, 0.104
