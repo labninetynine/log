@@ -38463,3 +38463,10 @@ Fri May  1 16:00:44 2020 : litecoin, -0.53
 Fri May  1 16:00:44 2020 : eos, 0.45
 Fri May  1 16:00:44 2020 : tron, -0.03
 Fri May  1 16:00:44 2020 : cardano, -0.18
+Fri May  1 16:30:10 2020 : bitcoin, -0.57
+Fri May  1 16:30:10 2020 : ethereum, -0.13
+Fri May  1 16:30:10 2020 : ripple, -0.5
+Fri May  1 16:30:10 2020 : litecoin, -0.53
+Fri May  1 16:30:10 2020 : eos, 0.45
+Fri May  1 16:30:10 2020 : tron, -0.03
+Fri May  1 16:30:10 2020 : cardano, -0.18
