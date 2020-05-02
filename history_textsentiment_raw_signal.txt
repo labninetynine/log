@@ -21944,3 +21944,10 @@ Sat May  2 22:00:20 2020 : litecoin, 0.137
 Sat May  2 22:00:20 2020 : eos, 0.08
 Sat May  2 22:00:20 2020 : tron, 0.077
 Sat May  2 22:00:20 2020 : cardano, 0.121
+Sat May  2 22:30:11 2020 : bitcoin, 0.137
+Sat May  2 22:30:11 2020 : ethereum, 0.131
+Sat May  2 22:30:11 2020 : ripple, 0.148
+Sat May  2 22:30:11 2020 : litecoin, 0.137
+Sat May  2 22:30:11 2020 : eos, 0.08
+Sat May  2 22:30:11 2020 : tron, 0.077
+Sat May  2 22:30:11 2020 : cardano, 0.121
