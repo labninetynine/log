@@ -24373,3 +24373,10 @@ Mon May 11 09:00:13 2020 : litecoin, 0.169
 Mon May 11 09:00:13 2020 : eos, 0.107
 Mon May 11 09:00:13 2020 : tron, 0.091
 Mon May 11 09:00:13 2020 : cardano, 0.093
+Mon May 11 10:00:14 2020 : bitcoin, 0.178
+Mon May 11 10:00:14 2020 : ethereum, 0.187
+Mon May 11 10:00:14 2020 : ripple, 0.122
+Mon May 11 10:00:14 2020 : litecoin, 0.172
+Mon May 11 10:00:14 2020 : eos, 0.107
+Mon May 11 10:00:14 2020 : tron, 0.091
+Mon May 11 10:00:14 2020 : cardano, 0.093
