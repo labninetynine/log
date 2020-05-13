@@ -41851,3 +41851,10 @@ Wed May 13 14:00:14 2020 : litecoin, -0.6
 Wed May 13 14:00:14 2020 : eos, -0.02
 Wed May 13 14:00:14 2020 : tron, 0.12
 Wed May 13 14:00:14 2020 : cardano, 0.08
+Wed May 13 14:30:11 2020 : bitcoin, -0.67
+Wed May 13 14:30:11 2020 : ethereum, -0.75
+Wed May 13 14:30:11 2020 : ripple, -0.15
+Wed May 13 14:30:11 2020 : litecoin, -0.6
+Wed May 13 14:30:11 2020 : eos, -0.02
+Wed May 13 14:30:11 2020 : tron, 0.12
+Wed May 13 14:30:11 2020 : cardano, 0.08
