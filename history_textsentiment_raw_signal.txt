@@ -25899,3 +25899,10 @@ Sat May 16 17:30:10 2020 : litecoin, 0.172
 Sat May 16 17:30:10 2020 : eos, 0.081
 Sat May 16 17:30:10 2020 : tron, 0.1
 Sat May 16 17:30:10 2020 : cardano, 0.089
+Sat May 16 18:00:13 2020 : bitcoin, 0.14
+Sat May 16 18:00:13 2020 : ethereum, 0.166
+Sat May 16 18:00:13 2020 : ripple, 0.159
+Sat May 16 18:00:13 2020 : litecoin, 0.172
+Sat May 16 18:00:13 2020 : eos, 0.081
+Sat May 16 18:00:13 2020 : tron, 0.1
+Sat May 16 18:00:13 2020 : cardano, 0.089
