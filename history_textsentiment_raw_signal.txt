@@ -30736,3 +30736,10 @@ Mon Jun  8 11:00:10 2020 : litecoin, 0.128
 Mon Jun  8 11:00:10 2020 : eos, 0.09
 Mon Jun  8 11:00:10 2020 : tron, 0.072
 Mon Jun  8 11:00:10 2020 : cardano, 0.104
+Mon Jun  8 11:30:10 2020 : bitcoin, 0.157
+Mon Jun  8 11:30:10 2020 : ethereum, 0.172
+Mon Jun  8 11:30:10 2020 : ripple, 0.143
+Mon Jun  8 11:30:10 2020 : litecoin, 0.13
+Mon Jun  8 11:30:10 2020 : eos, 0.09
+Mon Jun  8 11:30:10 2020 : tron, 0.072
+Mon Jun  8 11:30:10 2020 : cardano, 0.104
