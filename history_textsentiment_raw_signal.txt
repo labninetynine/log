@@ -31086,3 +31086,10 @@ Tue Jun  9 12:30:08 2020 : litecoin, 0.131
 Tue Jun  9 12:30:08 2020 : eos, 0.09
 Tue Jun  9 12:30:08 2020 : tron, 0.083
 Tue Jun  9 12:30:08 2020 : cardano, 0.107
+Tue Jun  9 13:00:12 2020 : bitcoin, 0.133
+Tue Jun  9 13:00:12 2020 : ethereum, 0.184
+Tue Jun  9 13:00:12 2020 : ripple, 0.106
+Tue Jun  9 13:00:12 2020 : litecoin, 0.131
+Tue Jun  9 13:00:12 2020 : eos, 0.09
+Tue Jun  9 13:00:12 2020 : tron, 0.086
+Tue Jun  9 13:00:12 2020 : cardano, 0.107
