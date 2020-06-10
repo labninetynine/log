@@ -31401,3 +31401,10 @@ Wed Jun 10 11:00:13 2020 : litecoin, 0.115
 Wed Jun 10 11:00:13 2020 : eos, 0.1
 Wed Jun 10 11:00:13 2020 : tron, 0.117
 Wed Jun 10 11:00:13 2020 : cardano, 0.087
+Wed Jun 10 11:30:10 2020 : bitcoin, 0.141
+Wed Jun 10 11:30:10 2020 : ethereum, 0.136
+Wed Jun 10 11:30:10 2020 : ripple, 0.112
+Wed Jun 10 11:30:10 2020 : litecoin, 0.115
+Wed Jun 10 11:30:10 2020 : eos, 0.1
+Wed Jun 10 11:30:10 2020 : tron, 0.117
+Wed Jun 10 11:30:10 2020 : cardano, 0.087
