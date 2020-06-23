@@ -51525,3 +51525,10 @@ Tue Jun 23 07:00:15 2020 : litecoin, 0.25
 Tue Jun 23 07:00:15 2020 : eos, -0.05
 Tue Jun 23 07:00:15 2020 : tron, 0.21
 Tue Jun 23 07:00:15 2020 : cardano, 0.11
+Tue Jun 23 07:30:13 2020 : bitcoin, -0.29
+Tue Jun 23 07:30:13 2020 : ethereum, -0.34
+Tue Jun 23 07:30:13 2020 : ripple, -0.02
+Tue Jun 23 07:30:13 2020 : litecoin, 0.25
+Tue Jun 23 07:30:13 2020 : eos, -0.05
+Tue Jun 23 07:30:13 2020 : tron, 0.21
+Tue Jun 23 07:30:13 2020 : cardano, 0.11
