@@ -52204,3 +52204,10 @@ Fri Jun 26 08:30:11 2020 : litecoin, -0.04
 Fri Jun 26 08:30:11 2020 : eos, -0.16
 Fri Jun 26 08:30:11 2020 : tron, 0.02
 Fri Jun 26 08:30:11 2020 : cardano, -0.06
+Fri Jun 26 09:00:11 2020 : bitcoin, -0.7
+Fri Jun 26 09:00:11 2020 : ethereum, -0.51
+Fri Jun 26 09:00:11 2020 : ripple, -0.05
+Fri Jun 26 09:00:11 2020 : litecoin, -0.04
+Fri Jun 26 09:00:11 2020 : eos, -0.16
+Fri Jun 26 09:00:11 2020 : tron, 0.02
+Fri Jun 26 09:00:11 2020 : cardano, -0.06
