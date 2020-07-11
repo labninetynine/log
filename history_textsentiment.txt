@@ -55991,3 +55991,10 @@ Sat Jul 11 00:30:10 2020 : litecoin, -0.04
 Sat Jul 11 00:30:10 2020 : eos, -0.02
 Sat Jul 11 00:30:10 2020 : tron, 0.18
 Sat Jul 11 00:30:10 2020 : cardano, -0.09
+Sat Jul 11 01:00:10 2020 : bitcoin, -0.67
+Sat Jul 11 01:00:10 2020 : ethereum, -0.26
+Sat Jul 11 01:00:10 2020 : ripple, -0.16
+Sat Jul 11 01:00:10 2020 : litecoin, -0.04
+Sat Jul 11 01:00:10 2020 : eos, -0.02
+Sat Jul 11 01:00:10 2020 : tron, 0.18
+Sat Jul 11 01:00:10 2020 : cardano, -0.09
