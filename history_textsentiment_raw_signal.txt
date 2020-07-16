@@ -40508,3 +40508,10 @@ Thu Jul 16 22:30:12 2020 : litecoin, 0.095
 Thu Jul 16 22:30:12 2020 : eos, 0.114
 Thu Jul 16 22:30:12 2020 : tron, 0.11
 Thu Jul 16 22:30:12 2020 : cardano, 0.121
+Thu Jul 16 23:00:12 2020 : bitcoin, 0.185
+Thu Jul 16 23:00:12 2020 : ethereum, 0.119
+Thu Jul 16 23:00:12 2020 : ripple, 0.165
+Thu Jul 16 23:00:12 2020 : litecoin, 0.095
+Thu Jul 16 23:00:12 2020 : eos, 0.114
+Thu Jul 16 23:00:12 2020 : tron, 0.11
+Thu Jul 16 23:00:12 2020 : cardano, 0.121
