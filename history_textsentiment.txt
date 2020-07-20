@@ -58357,3 +58357,10 @@ Mon Jul 20 03:30:10 2020 : litecoin, 0.06
 Mon Jul 20 03:30:10 2020 : eos, 0.14
 Mon Jul 20 03:30:10 2020 : tron, -0.17
 Mon Jul 20 03:30:10 2020 : cardano, -0.23
+Mon Jul 20 04:00:13 2020 : bitcoin, -0.26
+Mon Jul 20 04:00:13 2020 : ethereum, -0.21
+Mon Jul 20 04:00:13 2020 : ripple, -0.33
+Mon Jul 20 04:00:13 2020 : litecoin, 0.06
+Mon Jul 20 04:00:13 2020 : eos, 0.14
+Mon Jul 20 04:00:13 2020 : tron, -0.17
+Mon Jul 20 04:00:13 2020 : cardano, -0.23
