@@ -62151,3 +62151,10 @@ Mon Aug  3 11:00:12 2020 : litecoin, -0.03
 Mon Aug  3 11:00:12 2020 : eos, 0.1
 Mon Aug  3 11:00:12 2020 : tron, -0.31
 Mon Aug  3 11:00:12 2020 : cardano, -0.28
+Mon Aug  3 11:30:11 2020 : bitcoin, -0.3
+Mon Aug  3 11:30:11 2020 : ethereum, -0.36
+Mon Aug  3 11:30:11 2020 : ripple, -0.23
+Mon Aug  3 11:30:11 2020 : litecoin, -0.03
+Mon Aug  3 11:30:11 2020 : eos, 0.1
+Mon Aug  3 11:30:11 2020 : tron, -0.31
+Mon Aug  3 11:30:11 2020 : cardano, -0.28
