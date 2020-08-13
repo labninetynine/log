@@ -48159,3 +48159,10 @@ Thu Aug 13 14:30:09 2020 : litecoin, 0.146
 Thu Aug 13 14:30:09 2020 : eos, 0.061
 Thu Aug 13 14:30:09 2020 : tron, 0.103
 Thu Aug 13 14:30:09 2020 : cardano, 0.138
+Thu Aug 13 15:30:09 2020 : bitcoin, 0.143
+Thu Aug 13 15:30:09 2020 : ethereum, 0.139
+Thu Aug 13 15:30:09 2020 : ripple, 0.079
+Thu Aug 13 15:30:09 2020 : litecoin, 0.147
+Thu Aug 13 15:30:09 2020 : eos, 0.061
+Thu Aug 13 15:30:09 2020 : tron, 0.103
+Thu Aug 13 15:30:09 2020 : cardano, 0.138
