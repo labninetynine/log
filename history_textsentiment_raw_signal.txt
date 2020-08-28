@@ -51792,3 +51792,10 @@ Fri Aug 28 19:00:10 2020 : litecoin, 0.105
 Fri Aug 28 19:00:10 2020 : eos, 0.077
 Fri Aug 28 19:00:10 2020 : tron, 0.142
 Fri Aug 28 19:00:10 2020 : cardano, 0.161
+Fri Aug 28 19:30:10 2020 : bitcoin, 0.184
+Fri Aug 28 19:30:10 2020 : ethereum, 0.126
+Fri Aug 28 19:30:10 2020 : ripple, 0.158
+Fri Aug 28 19:30:10 2020 : litecoin, 0.105
+Fri Aug 28 19:30:10 2020 : eos, 0.077
+Fri Aug 28 19:30:10 2020 : tron, 0.142
+Fri Aug 28 19:30:10 2020 : cardano, 0.162
