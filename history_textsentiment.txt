@@ -69284,3 +69284,10 @@ Sun Aug 30 15:34:14 2020 : litecoin, 0.11
 Sun Aug 30 15:34:14 2020 : eos, 0.35
 Sun Aug 30 15:34:14 2020 : tron, -0.1
 Sun Aug 30 15:34:14 2020 : cardano, -0.4
+Sun Aug 30 16:04:13 2020 : bitcoin, -0.63
+Sun Aug 30 16:04:13 2020 : ethereum, -0.13
+Sun Aug 30 16:04:13 2020 : ripple, -0.22
+Sun Aug 30 16:04:13 2020 : litecoin, 0.11
+Sun Aug 30 16:04:13 2020 : eos, 0.4
+Sun Aug 30 16:04:13 2020 : tron, -0.05
+Sun Aug 30 16:04:13 2020 : cardano, -0.4
