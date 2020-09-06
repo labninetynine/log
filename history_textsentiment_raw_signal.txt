@@ -54291,3 +54291,10 @@ Sun Sep  6 07:00:15 2020 : litecoin, 0.106
 Sun Sep  6 07:00:15 2020 : eos, 0.092
 Sun Sep  6 07:00:15 2020 : tron, 0.079
 Sun Sep  6 07:00:15 2020 : cardano, 0.143
+Sun Sep  6 07:30:09 2020 : bitcoin, 0.118
+Sun Sep  6 07:30:09 2020 : ethereum, 0.112
+Sun Sep  6 07:30:09 2020 : ripple, 0.128
+Sun Sep  6 07:30:09 2020 : litecoin, 0.106
+Sun Sep  6 07:30:09 2020 : eos, 0.092
+Sun Sep  6 07:30:09 2020 : tron, 0.079
+Sun Sep  6 07:30:09 2020 : cardano, 0.143
