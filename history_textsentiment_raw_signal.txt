@@ -54991,3 +54991,10 @@ Tue Sep  8 09:00:09 2020 : litecoin, 0.061
 Tue Sep  8 09:00:09 2020 : eos, 0.08
 Tue Sep  8 09:00:09 2020 : tron, 0.115
 Tue Sep  8 09:00:09 2020 : cardano, 0.131
+Tue Sep  8 09:30:11 2020 : bitcoin, 0.114
+Tue Sep  8 09:30:11 2020 : ethereum, 0.096
+Tue Sep  8 09:30:11 2020 : ripple, 0.107
+Tue Sep  8 09:30:11 2020 : litecoin, 0.061
+Tue Sep  8 09:30:11 2020 : eos, 0.08
+Tue Sep  8 09:30:11 2020 : tron, 0.115
+Tue Sep  8 09:30:11 2020 : cardano, 0.131
