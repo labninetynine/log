@@ -73344,3 +73344,10 @@ Sun Sep 13 17:30:10 2020 : litecoin, 0.39
 Sun Sep 13 17:30:10 2020 : eos, 0.03
 Sun Sep 13 17:30:10 2020 : tron, -0.2
 Sun Sep 13 17:30:10 2020 : cardano, -0.21
+Sun Sep 13 18:00:12 2020 : bitcoin, -0.53
+Sun Sep 13 18:00:12 2020 : ethereum, -0.49
+Sun Sep 13 18:00:12 2020 : ripple, -0.09
+Sun Sep 13 18:00:12 2020 : litecoin, 0.39
+Sun Sep 13 18:00:12 2020 : eos, 0.05
+Sun Sep 13 18:00:12 2020 : tron, -0.23
+Sun Sep 13 18:00:12 2020 : cardano, -0.21
