@@ -56895,3 +56895,10 @@ Wed Sep 16 12:30:09 2020 : litecoin, 0.072
 Wed Sep 16 12:30:09 2020 : eos, 0.076
 Wed Sep 16 12:30:09 2020 : tron, 0.124
 Wed Sep 16 12:30:09 2020 : cardano, 0.127
+Wed Sep 16 13:00:11 2020 : bitcoin, 0.133
+Wed Sep 16 13:00:11 2020 : ethereum, 0.135
+Wed Sep 16 13:00:11 2020 : ripple, 0.131
+Wed Sep 16 13:00:11 2020 : litecoin, 0.074
+Wed Sep 16 13:00:11 2020 : eos, 0.076
+Wed Sep 16 13:00:11 2020 : tron, 0.117
+Wed Sep 16 13:00:11 2020 : cardano, 0.127
