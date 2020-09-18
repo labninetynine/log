@@ -57420,3 +57420,10 @@ Fri Sep 18 04:30:09 2020 : litecoin, 0.083
 Fri Sep 18 04:30:09 2020 : eos, 0.092
 Fri Sep 18 04:30:09 2020 : tron, 0.127
 Fri Sep 18 04:30:09 2020 : cardano, 0.139
+Fri Sep 18 05:00:11 2020 : bitcoin, 0.107
+Fri Sep 18 05:00:11 2020 : ethereum, 0.168
+Fri Sep 18 05:00:11 2020 : ripple, 0.144
+Fri Sep 18 05:00:11 2020 : litecoin, 0.083
+Fri Sep 18 05:00:11 2020 : eos, 0.092
+Fri Sep 18 05:00:11 2020 : tron, 0.127
+Fri Sep 18 05:00:11 2020 : cardano, 0.139
