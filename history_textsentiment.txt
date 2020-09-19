@@ -74891,3 +74891,10 @@ Sat Sep 19 19:30:11 2020 : litecoin, 0.31
 Sat Sep 19 19:30:11 2020 : eos, 0.03
 Sat Sep 19 19:30:11 2020 : tron, -0.1
 Sat Sep 19 19:30:11 2020 : cardano, -0.46
+Sat Sep 19 20:00:09 2020 : bitcoin, 0.12
+Sat Sep 19 20:00:09 2020 : ethereum, -0.58
+Sat Sep 19 20:00:09 2020 : ripple, -0.32
+Sat Sep 19 20:00:09 2020 : litecoin, 0.31
+Sat Sep 19 20:00:09 2020 : eos, 0.03
+Sat Sep 19 20:00:09 2020 : tron, -0.1
+Sat Sep 19 20:00:09 2020 : cardano, -0.46
