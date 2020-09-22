@@ -75563,3 +75563,10 @@ Tue Sep 22 18:58:19 2020 : litecoin, 0.29
 Tue Sep 22 18:58:19 2020 : eos, -0.06
 Tue Sep 22 18:58:19 2020 : tron, -0.38
 Tue Sep 22 18:58:19 2020 : cardano, -0.55
+Tue Sep 22 19:28:19 2020 : bitcoin, -0.26
+Tue Sep 22 19:28:19 2020 : ethereum, -0.38
+Tue Sep 22 19:28:19 2020 : ripple, -0.08
+Tue Sep 22 19:28:19 2020 : litecoin, 0.29
+Tue Sep 22 19:28:19 2020 : eos, -0.06
+Tue Sep 22 19:28:19 2020 : tron, -0.42
+Tue Sep 22 19:28:19 2020 : cardano, -0.55
