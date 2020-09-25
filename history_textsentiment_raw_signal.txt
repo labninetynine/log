@@ -59576,3 +59576,10 @@ Fri Sep 25 14:30:10 2020 : litecoin, 0.099
 Fri Sep 25 14:30:10 2020 : eos, 0.117
 Fri Sep 25 14:30:10 2020 : tron, 0.123
 Fri Sep 25 14:30:10 2020 : cardano, 0.164
+Fri Sep 25 15:00:13 2020 : bitcoin, 0.146
+Fri Sep 25 15:00:13 2020 : ethereum, 0.132
+Fri Sep 25 15:00:13 2020 : ripple, 0.116
+Fri Sep 25 15:00:13 2020 : litecoin, 0.099
+Fri Sep 25 15:00:13 2020 : eos, 0.117
+Fri Sep 25 15:00:13 2020 : tron, 0.123
+Fri Sep 25 15:00:13 2020 : cardano, 0.164
