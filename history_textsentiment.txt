@@ -77026,3 +77026,10 @@ Sun Sep 27 05:00:11 2020 : litecoin, -0.09
 Sun Sep 27 05:00:11 2020 : eos, -0.06
 Sun Sep 27 05:00:11 2020 : tron, -0.25
 Sun Sep 27 05:00:11 2020 : cardano, -0.57
+Sun Sep 27 05:30:09 2020 : bitcoin, -0.49
+Sun Sep 27 05:30:09 2020 : ethereum, -0.19
+Sun Sep 27 05:30:09 2020 : ripple, -0.13
+Sun Sep 27 05:30:09 2020 : litecoin, -0.09
+Sun Sep 27 05:30:09 2020 : eos, -0.06
+Sun Sep 27 05:30:09 2020 : tron, -0.25
+Sun Sep 27 05:30:09 2020 : cardano, -0.57
