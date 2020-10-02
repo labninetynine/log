@@ -60885,3 +60885,10 @@ Fri Oct  2 05:30:09 2020 : litecoin, 0.107
 Fri Oct  2 05:30:09 2020 : eos, 0.12
 Fri Oct  2 05:30:09 2020 : tron, 0.14
 Fri Oct  2 05:30:09 2020 : cardano, 0.15
+Fri Oct  2 06:30:10 2020 : bitcoin, 0.104
+Fri Oct  2 06:30:10 2020 : ethereum, 0.148
+Fri Oct  2 06:30:10 2020 : ripple, 0.149
+Fri Oct  2 06:30:10 2020 : litecoin, 0.107
+Fri Oct  2 06:30:10 2020 : eos, 0.12
+Fri Oct  2 06:30:10 2020 : tron, 0.14
+Fri Oct  2 06:30:10 2020 : cardano, 0.15
