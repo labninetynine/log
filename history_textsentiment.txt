@@ -78363,3 +78363,10 @@ Thu Oct  8 03:30:10 2020 : litecoin, -0.03
 Thu Oct  8 03:30:10 2020 : eos, -0.09
 Thu Oct  8 03:30:10 2020 : tron, -0.41
 Thu Oct  8 03:30:10 2020 : cardano, -0.28
+Thu Oct  8 04:30:10 2020 : bitcoin, -0.07
+Thu Oct  8 04:30:10 2020 : ethereum, -0.61
+Thu Oct  8 04:30:10 2020 : ripple, 0.08
+Thu Oct  8 04:30:10 2020 : litecoin, -0.03
+Thu Oct  8 04:30:10 2020 : eos, -0.09
+Thu Oct  8 04:30:10 2020 : tron, -0.39
+Thu Oct  8 04:30:10 2020 : cardano, -0.28
