@@ -61914,3 +61914,10 @@ Sat Oct 10 03:30:10 2020 : litecoin, 0.091
 Sat Oct 10 03:30:10 2020 : eos, 0.118
 Sat Oct 10 03:30:10 2020 : tron, 0.147
 Sat Oct 10 03:30:10 2020 : cardano, 0.146
+Sat Oct 10 04:00:14 2020 : bitcoin, 0.108
+Sat Oct 10 04:00:14 2020 : ethereum, 0.172
+Sat Oct 10 04:00:14 2020 : ripple, 0.116
+Sat Oct 10 04:00:14 2020 : litecoin, 0.091
+Sat Oct 10 04:00:14 2020 : eos, 0.118
+Sat Oct 10 04:00:14 2020 : tron, 0.148
+Sat Oct 10 04:00:14 2020 : cardano, 0.146
