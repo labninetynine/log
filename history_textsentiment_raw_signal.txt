@@ -62236,3 +62236,10 @@ Sun Oct 11 09:30:11 2020 : litecoin, 0.083
 Sun Oct 11 09:30:11 2020 : eos, 0.119
 Sun Oct 11 09:30:11 2020 : tron, 0.14
 Sun Oct 11 09:30:11 2020 : cardano, 0.147
+Sun Oct 11 10:00:10 2020 : bitcoin, 0.127
+Sun Oct 11 10:00:10 2020 : ethereum, 0.164
+Sun Oct 11 10:00:10 2020 : ripple, 0.157
+Sun Oct 11 10:00:10 2020 : litecoin, 0.083
+Sun Oct 11 10:00:10 2020 : eos, 0.119
+Sun Oct 11 10:00:10 2020 : tron, 0.14
+Sun Oct 11 10:00:10 2020 : cardano, 0.147
