@@ -63272,3 +63272,10 @@ Thu Oct 15 19:00:15 2020 : litecoin, 0.094
 Thu Oct 15 19:00:15 2020 : eos, 0.106
 Thu Oct 15 19:00:15 2020 : tron, 0.119
 Thu Oct 15 19:00:15 2020 : cardano, 0.157
+Thu Oct 15 19:30:14 2020 : bitcoin, 0.106
+Thu Oct 15 19:30:14 2020 : ethereum, 0.102
+Thu Oct 15 19:30:14 2020 : ripple, 0.152
+Thu Oct 15 19:30:14 2020 : litecoin, 0.093
+Thu Oct 15 19:30:14 2020 : eos, 0.105
+Thu Oct 15 19:30:14 2020 : tron, 0.119
+Thu Oct 15 19:30:14 2020 : cardano, 0.155
