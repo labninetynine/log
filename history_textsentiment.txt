@@ -80547,3 +80547,10 @@ Sat Oct 17 01:30:09 2020 : litecoin, 0.19
 Sat Oct 17 01:30:09 2020 : eos, -0.24
 Sat Oct 17 01:30:09 2020 : tron, -0.04
 Sat Oct 17 01:30:09 2020 : cardano, -0.35
+Sat Oct 17 02:00:11 2020 : bitcoin, -0.39
+Sat Oct 17 02:00:11 2020 : ethereum, -0.43
+Sat Oct 17 02:00:11 2020 : ripple, -0.02
+Sat Oct 17 02:00:11 2020 : litecoin, 0.19
+Sat Oct 17 02:00:11 2020 : eos, -0.24
+Sat Oct 17 02:00:11 2020 : tron, -0.03
+Sat Oct 17 02:00:11 2020 : cardano, -0.35
