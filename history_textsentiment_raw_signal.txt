@@ -63923,3 +63923,10 @@ Sun Oct 18 14:00:10 2020 : litecoin, 0.079
 Sun Oct 18 14:00:10 2020 : eos, 0.132
 Sun Oct 18 14:00:10 2020 : tron, 0.087
 Sun Oct 18 14:00:10 2020 : cardano, 0.147
+Sun Oct 18 14:30:10 2020 : bitcoin, 0.148
+Sun Oct 18 14:30:10 2020 : ethereum, 0.138
+Sun Oct 18 14:30:10 2020 : ripple, 0.081
+Sun Oct 18 14:30:10 2020 : litecoin, 0.079
+Sun Oct 18 14:30:10 2020 : eos, 0.132
+Sun Oct 18 14:30:10 2020 : tron, 0.115
+Sun Oct 18 14:30:10 2020 : cardano, 0.147
