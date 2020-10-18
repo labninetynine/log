@@ -80855,3 +80855,10 @@ Sun Oct 18 14:30:10 2020 : litecoin, 0.21
 Sun Oct 18 14:30:10 2020 : eos, -0.31
 Sun Oct 18 14:30:10 2020 : tron, -0.15
 Sun Oct 18 14:30:10 2020 : cardano, -0.44
+Sun Oct 18 15:30:10 2020 : bitcoin, -0.36
+Sun Oct 18 15:30:10 2020 : ethereum, -0.36
+Sun Oct 18 15:30:10 2020 : ripple, 0.15
+Sun Oct 18 15:30:10 2020 : litecoin, 0.21
+Sun Oct 18 15:30:10 2020 : eos, -0.31
+Sun Oct 18 15:30:10 2020 : tron, -0.15
+Sun Oct 18 15:30:10 2020 : cardano, -0.44
