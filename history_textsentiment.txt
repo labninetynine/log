@@ -81240,3 +81240,10 @@ Tue Oct 20 02:30:10 2020 : litecoin, 0.3
 Tue Oct 20 02:30:10 2020 : eos, -0.09
 Tue Oct 20 02:30:10 2020 : tron, 0.05
 Tue Oct 20 02:30:10 2020 : cardano, -0.35
+Tue Oct 20 03:00:11 2020 : bitcoin, 0.05
+Tue Oct 20 03:00:11 2020 : ethereum, -0.43
+Tue Oct 20 03:00:11 2020 : ripple, 0.16
+Tue Oct 20 03:00:11 2020 : litecoin, 0.3
+Tue Oct 20 03:00:11 2020 : eos, -0.09
+Tue Oct 20 03:00:11 2020 : tron, 0.05
+Tue Oct 20 03:00:11 2020 : cardano, -0.35
