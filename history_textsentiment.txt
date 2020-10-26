@@ -82353,3 +82353,10 @@ Mon Oct 26 05:00:10 2020 : litecoin, 0.34
 Mon Oct 26 05:00:10 2020 : eos, -0.01
 Mon Oct 26 05:00:10 2020 : tron, -0.17
 Mon Oct 26 05:00:10 2020 : cardano, -0.73
+Mon Oct 26 05:30:09 2020 : bitcoin, -0.36
+Mon Oct 26 05:30:09 2020 : ethereum, -0.63
+Mon Oct 26 05:30:09 2020 : ripple, 0.43
+Mon Oct 26 05:30:09 2020 : litecoin, 0.34
+Mon Oct 26 05:30:09 2020 : eos, -0.01
+Mon Oct 26 05:30:09 2020 : tron, -0.17
+Mon Oct 26 05:30:09 2020 : cardano, -0.71
