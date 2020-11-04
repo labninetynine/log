@@ -67045,3 +67045,10 @@ Wed Nov  4 23:00:13 2020 : litecoin, 0.111
 Wed Nov  4 23:00:13 2020 : eos, 0.108
 Wed Nov  4 23:00:13 2020 : tron, 0.141
 Wed Nov  4 23:00:13 2020 : cardano, 0.185
+Wed Nov  4 23:30:11 2020 : bitcoin, 0.124
+Wed Nov  4 23:30:11 2020 : ethereum, 0.137
+Wed Nov  4 23:30:11 2020 : ripple, 0.19
+Wed Nov  4 23:30:11 2020 : litecoin, 0.114
+Wed Nov  4 23:30:11 2020 : eos, 0.112
+Wed Nov  4 23:30:11 2020 : tron, 0.141
+Wed Nov  4 23:30:11 2020 : cardano, 0.185
