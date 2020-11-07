@@ -67542,3 +67542,10 @@ Sat Nov  7 09:30:09 2020 : litecoin, 0.127
 Sat Nov  7 09:30:09 2020 : eos, 0.124
 Sat Nov  7 09:30:09 2020 : tron, 0.165
 Sat Nov  7 09:30:09 2020 : cardano, 0.192
+Sat Nov  7 10:00:14 2020 : bitcoin, 0.121
+Sat Nov  7 10:00:14 2020 : ethereum, 0.138
+Sat Nov  7 10:00:14 2020 : ripple, 0.136
+Sat Nov  7 10:00:14 2020 : litecoin, 0.127
+Sat Nov  7 10:00:14 2020 : eos, 0.124
+Sat Nov  7 10:00:14 2020 : tron, 0.161
+Sat Nov  7 10:00:14 2020 : cardano, 0.192
