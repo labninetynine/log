@@ -85328,3 +85328,10 @@ Tue Nov 10 23:30:10 2020 : litecoin, -0.17
 Tue Nov 10 23:30:10 2020 : eos, -0.22
 Tue Nov 10 23:30:10 2020 : tron, -0.03
 Tue Nov 10 23:30:10 2020 : cardano, -0.65
+Wed Nov 11 00:30:10 2020 : bitcoin, -0.24
+Wed Nov 11 00:30:10 2020 : ethereum, -0.42
+Wed Nov 11 00:30:10 2020 : ripple, 0.25
+Wed Nov 11 00:30:10 2020 : litecoin, -0.17
+Wed Nov 11 00:30:10 2020 : eos, -0.22
+Wed Nov 11 00:30:10 2020 : tron, -0.03
+Wed Nov 11 00:30:10 2020 : cardano, -0.65
